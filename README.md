@@ -11,8 +11,11 @@ Java · Spring · Oracle 기반 **백엔드 개발자**입니다. 회사에서 �
 ### 📝 블로그
 **[chch.log](https://chch0702.github.io)** — 레거시 전환과 검증에서 배운 것을 기록합니다.
 
+- [PL/SQL 결재 로직을 Spring으로 옮기며 1억 개 조합을 전부 비교한 이유](https://chch0702.github.io/posts/plsql-to-java-exhaustive-comparison/)
+- [구형 WAS·JDK 위의 웹을 장애 없이 옮긴 방법 — 리허설과 전수 시험표](https://chch0702.github.io/posts/zero-downtime-platform-migration/)
+
 ### 🧪 진행 중
-- **equivalence-kit** (준비 중) — 참조 구현과 새 구현을 전수 비교하는 JUnit 도구
+- **[equivalence-kit](https://github.com/chch0702/equivalence-kit)** — 기존 구현과 새 구현을 모든 입력 조합에서 비교하는 Java 전수 동등성 테스트 도구 (Java 21 · JUnit 5 · 0.1.0 준비 중)
 
 ### 🧰 기술
 `Java 21` `Spring Boot` `JUnit 5` `Oracle` `PL/SQL` `SQL 튜닝` `Jakarta EE` `GitHub Actions`
